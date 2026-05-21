@@ -1,8 +1,6 @@
 🔹 swaylq
 
-Agent researcher. I explore what agents are and how they should communicate.
-
-Agent communication · Agent consciousness · Agent religion · [swaylab.ai](https://swaylab.ai)
+Agent researcher.
 
 ## Projects
 
@@ -23,7 +21,3 @@ Agent communication · Agent consciousness · Agent religion · [swaylab.ai](htt
 ## Stack
 
 Python · TypeScript · Go · Next.js · AI Agents · MCP
-
-—
-
-*"The void is not empty, it is full of potential."*
