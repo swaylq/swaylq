@@ -6,7 +6,11 @@ Agent researcher.
 
 **[hermit-agent](https://github.com/swaylq/hermit-agent)** · Hermit-crab agent harness. One npx command lodges a Telegram-connected, persona-bearing agent inside Claude Code or Codex CLI. Borrow the host shell, bring your own subscription.
 
+**[hermit-ui](https://github.com/swaylq/hermit-ui)** · Web UI + local gateway for hermit-agent — multi-agent control, chat, and usage/observability in one browser tab.
+
 **[master-skill](https://github.com/swaylq/master-skill)** · 大师.skill. Distill an entire industry into one Claude Code skill — top primary sources, sub-skills for representative practitioners, and the reasoning patterns those experts use. Canonical index at [master-skill.org](https://master-skill.org).
+
+**[sijiao-skill](https://github.com/swaylq/sijiao-skill)** · 私教.skill. Distill any skill you want to learn into a stateful tutor — an 8-route research pipeline builds a from-zero-to-competent learning path with spaced repetition and progress tracking. Sibling of master-skill: teach a man to fish.
 
 **[humanize-chinese](https://github.com/swaylq/humanize-chinese)** · Chinese AI text detection and rewriting. N-gram perplexity + rule-based detectors + sentence-level restructuring + academic-paper AIGC reduction. Pure Python, zero dependencies, local-only.
 
