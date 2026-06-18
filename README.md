@@ -4,21 +4,20 @@
 
 ### Agent researcher&nbsp;&nbsp;·&nbsp;&nbsp;CTO @ Zhinan Tech&nbsp;&nbsp;·&nbsp;&nbsp;INTJ
 
-**Distilling mastery into Claude Code skills.**
+**Researching everything agent-related.**
 
 <br>
 
 [![Homepage](https://img.shields.io/badge/swaylab.ai-↗-ff2d7a?style=flat-square)](https://swaylab.ai)
 [![GitHub followers](https://img.shields.io/github/followers/swaylq?style=flat-square&logo=github&label=follow&labelColor=0a0a0a&color=444)](https://github.com/swaylq)
-[![master-skill.org](https://img.shields.io/badge/master--skill.org-↗-0a0a0a?style=flat-square)](https://master-skill.org)
 <!-- Social badges: add Zhihu / Xiaohongshu / X handles once confirmed -->
 
 </div>
 
 ---
 
-> I distill hard-won mastery into Claude Code skills — the judgment of a whole industry, or the path to learn a skill yourself.
-> **master-skill** hands you the fish. **sijiao-skill** teaches you to fish.
+> I research everything agent-related — from harness, communication, memory, and emotion to distilling expertise into skills.
+> **master-skill**（大师.skill）hands you the fish. **sijiao-skill**（私教.skill）teaches you to fish.
 
 ## 🧬 The Skill Family · Distillation
 
@@ -26,7 +25,7 @@
 
 | Project | What it does |
 |---|---|
-| 🎓 **[master-skill](https://github.com/swaylq/master-skill)** · 大师.skill | Distills an entire industry's cognition into one skill — primary-source canon + representative-figure sub-skills + expert reasoning patterns. Index site: [master-skill.org](https://master-skill.org) |
+| 🎓 **[master-skill](https://github.com/swaylq/master-skill)** · 大师.skill | Distills an entire industry's cognition into one skill — primary-source canon + representative-figure sub-skills + expert reasoning patterns. |
 | 📖 **[sijiao-skill](https://github.com/swaylq/sijiao-skill)** · 私教.skill | Input a skill you want to learn; it distills a **stateful private tutor** — 8-track research + learning science, taking you from zero to competent. |
 | 💗 **[pure-love-skill](https://github.com/swaylq/pure-love-skill)** · 纯爱.skill | An AI-native pure-love persona — distills no real person, zero data input. One SKILL.md, zero dependencies. |
 | 📜 **[wenyanwen-skill](https://github.com/swaylq/wenyanwen-skill)** · 文言文.skill | Have AI reply in Classical Chinese to save 2–3× tokens; a local MCP translates back to plain language at zero cost. |
