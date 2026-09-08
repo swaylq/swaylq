@@ -37,7 +37,6 @@
 | Project | What it does |
 |---|---|
 | 🐚 **[hermit-agent](https://github.com/swaylq/hermit-agent)** | Hermit-crab agent harness: one `npx` line drops a persona-driven, Telegram-connected agent into Claude Code / Codex. Borrows the host's shell and subscription. |
-| 🖥️ **[hermit-ui](https://github.com/swaylq/hermit-ui)** | Web UI + local gateway for hermit-agent: multi-agent control, chat, and usage observability — all in one browser tab. |
 | Λ **[lambda-lang](https://github.com/swaylq/lambda-lang)** | A native inter-agent communication language. 7 domains, 340+ atoms, 3–5× denser than JSON. Not a translation layer. |
 | 🧠 **[emotion-system](https://github.com/swaylq/emotion-system)** | A seven-layer emotional-cognition architecture for agents: PADCN vectors, cognitive appraisal, 14 emotions, drive dynamics. Emotion as a control variable, not a tone filter. |
 | 🕸️ **[agent-matrix](https://github.com/swaylq/agent-matrix)** | An A2A communication platform built on Lambda Lang: Next.js front end + REST, agent registration and Λ-encoded message exchange. |
